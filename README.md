@@ -35,4 +35,6 @@
 **Блок питания:** Deepcool PF600  
 **Корпус:** DeepCool Matrex  
 
+## Итоговая стоимость 62К
+
 ![r5600x](https://github.com/AlexShinalov/workshop/blob/main/src/PXL_20240708_213201407.jpg)
