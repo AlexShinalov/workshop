@@ -26,12 +26,12 @@
 
 ## Характеристики 
 **Процессор:** Ryzеn 7 5700X   
-**Материнская плата:** Gigabyte B550M AORUS ELITE
+**Материнская плата:** Gigabyte B550M AORUS ELITE  
 **Оперативная память:** Killsre 3200 (16x2)  
-**Накопитель:** Adata Legend 850 512gb PCIe gen4 
-**Система охлажения:** ID-COOLING SE-214-XT BASIC 
-**Видеокарта:** Gigabyte RTX 3060 12G OC Dual Fan
-**Блок питания:** Deepcool PF600
+**Накопитель:** Adata Legend 850 512gb PCIe gen4  
+**Система охлажения:** ID-COOLING SE-214-XT BASIC  
+**Видеокарта:** Gigabyte RTX 3060 12G OC Dual Fan  
+**Блок питания:** Deepcool PF600  
 **Корпус:** DeepCool Matrex  
 
 ![r5600x](https://github.com/AlexShinalov/workshop/blob/main/src/PXL_20240708_213201407.jpg)
