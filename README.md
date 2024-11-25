@@ -71,3 +71,5 @@
 **Корпус:** Ginzzu SL200  
 
 ## Итоговая стоимость 42К
+
+![5700g](https://github.com/AlexShinalov/workshop/blob/main/src/photo_2024-11-24_21-19-15.jpg)
