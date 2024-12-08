@@ -71,7 +71,7 @@
 
 ## Итоговая стоимость ~ 25К
 
-
+![11400f](https://github.com/AlexShinalov/workshop/blob/main/src/photo_2024-12-09_01-12-54.jpg?raw=true)
 
 # Под апгрейд 
 
