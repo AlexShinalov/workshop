@@ -18,7 +18,7 @@
 **Вентиляторы для корпуса** Id-cooling AS-120-K TRIO
 
 ## Итоговая стоимость 180К
-![r7950x]()
+![r7950x](https://github.com/AlexShinalov/workshop/blob/main/src/photo_2024-12-31_00-09-22.jpg)
 
 # Из того, что было 
 ## История
@@ -35,7 +35,7 @@
 **Корпус:** Thermaltake versa H17 
 
 ## Итоговая стоимость 30К
-![i11400f]()
+![i11400f](https://github.com/AlexShinalov/workshop/blob/main/src/PXL_20241227_221703650.jpg)
 
 # Компактный и белый
 ## История 
