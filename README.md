@@ -32,7 +32,7 @@
 **Система охлажения:** DeepCool gammaxx 400   
 **Видеокарта:** RTX 2060 12GB  
 **Блок питания:** Corsair CX600M   
-**Корпус:** DeepCool MAtrexx 55 MESH  
+**Корпус:** DeepCool Matrexx 55 MESH  
 
 ## Итоговая стоимость Undefined
 ![r7950x](https://github.com/AlexShinalov/workshop/blob/main/src/PXL_20250202_201313762.jpg)
