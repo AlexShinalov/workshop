@@ -35,7 +35,7 @@
 **Корпус:** DeepCool MAtrexx 55 MESH  
 
 ## Итоговая стоимость Undefined
-![r7950x](https://github.com/AlexShinalov/workshop/blob/main/src/photo_2024-12-31_00-09-22.jpg)
+![r7950x](https://github.com/AlexShinalov/workshop/blob/main/src/PXL_20250202_201313762.jpg)
 
 # Из того, что было 
 ## История
